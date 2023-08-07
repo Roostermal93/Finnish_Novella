@@ -1,8 +1,22 @@
 {
-    "count": 4,
+    "count": 8,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "0730ad8b-b1b5-4b08-8a7f-e0068bbe33c5",
+            "collectionId": "Finnish",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Finnish/0730ad8b-b1b5-4b08-8a7f-e0068bbe33c5_fi_Female.mp4"
+        },
+        {
+            "id": "d22f30ce-59e6-4c52-ad14-fa73b78cc4f7",
+            "collectionId": "Finnish",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Finnish/d22f30ce-59e6-4c52-ad14-fa73b78cc4f7_fi_Female.mp4"
+        },
         {
             "id": "dbacd476-80a5-4c56-bb96-b484d643522a",
             "collectionId": "Finnish",
@@ -30,6 +44,20 @@
             "type": "Novella",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Finnish/679ae720-0c64-4989-87f7-bb8ae6ce5f32_fi_Female.mp4"
+        },
+        {
+            "id": "16a3f8ce-a52c-4686-84b0-232ae9973db6",
+            "collectionId": "Finnish",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Finnish/16a3f8ce-a52c-4686-84b0-232ae9973db6_fi_Male.mp4"
+        },
+        {
+            "id": "5f26c858-f541-40e7-85c8-7776646b2c2a",
+            "collectionId": "Finnish",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Finnish/5f26c858-f541-40e7-85c8-7776646b2c2a_fi_Male.mp4"
         }
     ]
 }
